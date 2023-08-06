@@ -1,0 +1,30 @@
+html {
+  font-family: "Lucida Console", monospace;
+  background-color: #CDCDCD;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+    colour : black;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    colour : white;
+    text-shadow: black 0px 0px 2px;
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    colour : black;
+    font-size: 16px;
+    text-align: center;
+}
