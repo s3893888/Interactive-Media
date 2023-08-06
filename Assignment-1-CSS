@@ -1,6 +1,6 @@
 html {
   font-family: "Lucida Console", monospace;
-  background-color: #CDCDCD;
+  background-color: gray;
 }
 
 body {
@@ -11,20 +11,27 @@ body {
 }
 
 h1 {
-    colour : black;
+    color : black;
     font-size: 50px;
     text-align: center;
 }
 
 h2 {
-    colour : white;
+    color : white;
     text-shadow: black 0px 0px 2px;
     font-size: 30px;
     text-align: center;
 }
 
-p {
-    colour : black;
+p1 {
+    color : black;
     font-size: 16px;
     text-align: center;
+}
+
+p2 {
+  color : white;
+  -webkit-text-stroke: black 0.1px;
+  font-size: 16px;
+  text-align: left;
 }
